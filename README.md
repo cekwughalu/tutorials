@@ -1,2 +1,2 @@
-# tutorials
+# modelling tutorials
 tutorials i used to learn comp neuro
